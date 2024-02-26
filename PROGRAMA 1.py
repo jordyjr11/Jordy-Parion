@@ -1,3 +1,4 @@
+
 matriz = [
     [1, 2, 3],
     [4, 5, 6],
@@ -5,7 +6,7 @@ matriz = [
 ]
 
 no_fila = 0
-busqueda = 5
+busqueda = 9
 
 for fila in matriz:
     no_columna = 0
